@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+gems: [jekyll-paginate]
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Data Training
+tagline:          Tagline Here
+description:      'Description here'
+#url:              http://crackthecode.io
+baseurl:          /
+
+#author:
+#  name:           'Author'
+  # url:            https://twitter.com/mdo
+
+paginate:         5
+
+# Custom vars
+version:          0.0.1
+
+#github:
+#  repo:           https://github.com/poole/hyde
