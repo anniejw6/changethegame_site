@@ -11,7 +11,7 @@ title:            Data Training
 tagline:          Tagline Here
 description:      'Description here'
 url:              https://anniejw6.github.io/datatraining_site/
-baseurl:          /datatraining_site
+baseurl:          /datatraining_site/
 
 #author:
 #  name:           'Author'
