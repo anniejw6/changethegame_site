@@ -1,4 +1,4 @@
-# crackthecodesite
+# Change the Game
 
 To build this site, clone this repository and run
 
