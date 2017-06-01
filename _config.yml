@@ -11,7 +11,7 @@ title:            Data Training
 tagline:          Tagline Here
 description:      'Description here'
 url:              http://changethegame.io/
-baseurl:          /datatraining_site
+baseurl:          /
 
 #author:
 #  name:           'Author'
