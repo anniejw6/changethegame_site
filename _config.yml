@@ -1,6 +1,6 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown:         kramdown
+highlighter:      rouge
 gems: [jekyll-paginate]
 
 # Permalinks
@@ -11,7 +11,7 @@ title:            Data Training
 tagline:          Tagline Here
 description:      'Description here'
 url:              https://anniejw6.github.io/datatraining_site/
-baseurl:          /
+baseurl:          /datatraining_site
 
 #author:
 #  name:           'Author'
