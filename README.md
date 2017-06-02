@@ -7,3 +7,6 @@ jekyll serve
 ```
 
 `*.md` pages in the home directory are pages (e.g., about speakers, for registration). Otherwise, this site is supposed to be a blog, so add `_posts` for them to appear on the home page.
+
+* Resize image before you load them
+* For Google Forms, see https://github.com/anniejw6/crackthecodesite/blob/master/register.md
