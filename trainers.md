@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Trainers and Coaches
+title: Organizers, Trainers and Coaches
 ---
 
 ![Trainer 1]({{ site.url }}/public/photos/trainer1.jpg)
