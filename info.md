@@ -2,6 +2,8 @@
 layout: page
 title: FAQ 
 ---
+**UNDER CONSTRUCTION**
+
 
 **What is this Training?**
 This is a training designed to empower members of traditionally underrepresented communities with the necessary skills to have conversations about redistricting and its politics, becoming a political data practitioner, and develop the ability to generate proposals from ideas using data. 
