@@ -7,4 +7,4 @@ Thank you for your interest in the Change the Game Training -  Political and Org
 
 Because we are intentionally creating space for historically underrepresented communities in political data and technology, we are working hard to provide scholarships for those in need. Please apply, even if you’re unsure if you’ll be able to contribute to the cost of the training, including housing and other costs.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfnAhJGIQHCgwDDAL8RPDrMX0ofmslsuLHIrkCIXVKsPwfxMA/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfnAhJGIQHCgwDDAL8RPDrMX0ofmslsuLHIrkCIXVKsPwfxMA/viewform?embedded=true" width="760" height="750" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
