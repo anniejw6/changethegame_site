@@ -6,11 +6,15 @@ Thanks for visiting our FAQ. We will continue to add to this as we get closer to
 
 **What is this Training?**
 Traditionally oppressed communities struggle to be seen and heard by their representative governments. This is a training designed to empower members of traditionally underrepresented communities with the necessary skills to effectively use data to tell narratives around proposal writing, redistricting, and organizing best practices. The tools and skills we teach are based on years of experience by other data professionals working in the progressive space, and are designed to help you launch your new or growing data career.
+
 **When is the Training?**
  August 12th through August 26th, 2017
  
 **Where is the Training?**
 In Washington, DC at a training facility.
+
+**I'm ready to apply! What do I do?**
+Just fill out the [application page](http://changethegame.io/apply/). A member of the application committee will follow up with next steps shortly.
 
 **What’s different about this training?**
 + Given the way legislation impacts the day to day lives of these communities, we are looking to lift and empower traditionally underrepresented organizations and staff. This space is intended to empower folks to move into a leadership positions in order to affect change in their communities.
