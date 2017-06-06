@@ -34,7 +34,7 @@ Vice President for MomsRising.org, **Monifa Bandele** has more than 15 years of 
 ![Dessa Gypalo]({{ site.url }}/public/Dessa.jpg){:style="float: left;margin-right: 12px;margin-top: 10px;"}
 **Dessa Gypalo** is the Director of Data Services at NGP VAN. She, and her team, support a variety of client data needs, including onboarding and data hygiene tasks. Previously, she was the National Data Manager for Enroll America. In that role, she lead the Data team in building a sustainable data and analytics infrastructure for use by thousands of staff and volunteers who were helping uninsured Americans understand the opportunities made available by health reform. Prior to that, Dessa was the Operation Vote, Digital, Political, and Voter Protection Data Manager for President Obama’s re-election campaign, where she helped streamline data processes and built data management tools for a variety of internal stakeholders. She got her start working in Chicago at a boutique public affairs firm where she led client engagement around data needs. 
 
-![John Malloy]({{ site.url }}/public/John2.jpg){:style="float: right;margin-left: 12px;margin-top: 7px;"}
+![John Malloy]({{ site.url }}/public/john2.jpg){:style="float: right;margin-left: 12px;margin-top: 7px;"}
 **John Malloy** is the Deputy Director of Data and Analytics for Planned Parenthood Federation of America. He's previously worked in data and analytics for the Democractic Congressional Campaign Committee (DCCC), Enroll America and for America Votes in New Hampshire. He received his B.A. in Political Science from University of Kentucky.
 
 ![Cristina Sinclaire]({{ site.url }}/public/Cristina.png){:style="float: left;margin-left: 12px;margin-top: 7px;"}
