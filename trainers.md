@@ -17,13 +17,14 @@ title: Organizers and Trainers
 ![Monifa Bandele]({{ site.url }}/public/Monifa.jpg){:style="float: right;margin-left: 12px;margin-top: 7px;"}
 Vice President for MomsRising.org, **Monifa Bandele** has more than 15 years of experience in policy analysis, communications, civic engagement organizing, and project management working with groups like the Brennan Center for Justice, Peoples Hurricane Relief Fund, and the National Coalition on Black Civic Participation. At MomsRising.org she manages the Healthy Kids and Maternal Justice campaigns, helping to increase children's access to healthy food, dismantle the school-to-prison pipeline, end mass incarceration, and making sure that every mother has justice. During her tenure at the Brennan Center as national field director for the Right to Vote Campaign, the coalition successfully change laws in five state expanding the franchise to more that 250,000 formerly incarcerated people. Finally, Monifa sits on the steering committee for Communities United for Police Reform and is an activist with the Malcolm X Grassroots Movement
 
-![Jennifer Cervella]({{ site.url }}/public/Jenn.jpg){:style="float: left;margin-left: 12px;margin-top: 7px;"}
+![Jennifer Cervella]({{ site.url }}/public/Jenn.jpg){:style="float: left;margin-right: 12px;margin-top: 7px;"}
 **Jennifer Cervella** is the Data and Targeting Director at AFSCME International. Previously, she worked in data for the Texas Democratic Party. Jenn is a vital part of the data practitioner community, developing and maintaining a variety of data communications groups.
 
 ![Bridgit Donnely]({{ site.url }}/public/Bridgit.jpg){:style="float: right;margin-left: 12px;margin-top: 7px;"}
 **Bridgit Donnely** has years of experience in data, including as a Data Bootcamp coordinator for New Organizing Institute. She has worked for Presidential campaigns and non-profits and has a degree in Public Policy from the University of Chicago. She also worked with the Data Science for Social Good program. 
 
-![Katie Ellis]({{ site.url }}/public/Katie.jpg){:style="float: left;margin-left: 12px;margin-top: 7px;"}
+
+![Katie Ellis]({{ site.url }}/public/Katie.jpg){:style="float: left;margin-right: 12px;margin-top: 7px;"}
 **Katie Ellis** is the founder and Executive Director of the Community Outreach Group, a consulting firm that manages field and organizing campaigns for Planned Parenthood and partner organizations working to create a world free from violence and discrimination. In a previous life, Katie ran data programs and trained on data, organizing, and digital strategy for the New Organizing Institute.
 
 ![Jessica Garson]({{ site.url }}/public/Jess.png){:style="float: right;margin-left: 12px;margin-top: 7px;"}
