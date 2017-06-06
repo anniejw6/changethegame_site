@@ -9,7 +9,7 @@ title: Organizers and Trainers
 
 ## **Committee Members** 
 
-(alphabetic by last name
+(alphabetic by last name)
 
 ![Maram Abdelhamid]({{ site.url }}/public/Maram.jpg){:style="float: left;margin-right: 12px;margin-top: 7px;"}
 **Maram Abdelhamid** is the Founder and Director of Liberty and Access for All. She is a Political and Nonprofit Consultant, specializing in strategic program development, government advocacy, campaigns and elections with clients like U.S Department of State, National Democratic Institute (NDI) Liberty Coalition, and Brian Moran for Governor and Creigh Deeds for Governor Campaigns. Ms. Abdelhamid has over 10 years of experience in political organizing government relations and advocacy. Abdelhamid began her career as a Legislative Assistant to Colorado State Rep Renee Sanchez. She then worked as the National Field Organizer for 21st Century Democrats, Deputy Campaign Manager for Representative Jim Moran of Virginia and served as the National Field and Political Director for Arab American Institute. Maram Abdelhamid has earned a bachelor’s degree from the University of Denver in Political Science and Economics.
