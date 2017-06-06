@@ -11,9 +11,9 @@ You can [read about the organizers and trainers](http://changethegame.io/trainer
 ### Sponsors and partners
 The following organizations and more have graciously partnered and provided support for this training.
 
-![liberty and access for all]({{ site.url }}/public/libertyaccess.jpg) Liberty and Access for All
-
 ![blue labs]({{ site.url }}/public/bluelabs.png)
+
+![liberty and access for all]({{ site.url }}/public/libertyaccess.jpg) Liberty and Access for All
 
 ![moms rising]({{ site.url }}/public/momsrising.png)
 
