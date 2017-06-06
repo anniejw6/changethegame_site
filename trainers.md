@@ -4,14 +4,14 @@ title: Organizers and Trainers
 ---
 ## **Committee Chair**
 
-![Jamaa Bickley-King]({{ site.url }}/public/Jamaa.jpg){:style="float: left;margin-left: 7px;margin-top: 7px;"}
+![Jamaa Bickley-King]({{ site.url }}/public/Jamaa.jpg){:style="float: left;margin-right: 7px;margin-top: 7px;"}
 **Jamaa Bickley-King** is the committee chair for the Change the Game training and has over 20 years of political experience in the progressive and Democratic party space. He has had critical roles in implementing innovative data-centric programs to engage people of color, especially Black people. He has implemented custom VAN set ups for the NAACP, The Prime Minister of Trinidad Tobago and successfully deployed the first 50 state VAN and Voter file system for a national non-proft in the US. He was the critical tech architect for the NAACP's 2012 voter registration program where they registered over 600,000 people nationally. He is also, the Chairman of the Board, President, and co-founder of New Virginia Majority, which completed a successful Black, Latino, and youth-targeted voter registration drive in Virginia, that registered 150,000 people in 2016.
 
 ## **Committee Members** 
 
 (alphabetic by last name
 
-![Maram Abdelhamid]({{ site.url }}/public/Maram.jpg){:style="float: left;margin-left: 7px;margin-top: 7px;"}
+![Maram Abdelhamid]({{ site.url }}/public/Maram.jpg){:style="float: left;margin-right: 7px;margin-top: 7px;"}
 **Maram Abdelhamid** is the Founder and Director of Liberty and Access for All. She is a Political and Nonprofit Consultant, specializing in strategic program development, government advocacy, campaigns and elections with clients like U.S Department of State, National Democratic Institute (NDI) Liberty Coalition, and Brian Moran for Governor and Creigh Deeds for Governor Campaigns. Ms. Abdelhamid has over 10 years of experience in political organizing government relations and advocacy. Abdelhamid began her career as a Legislative Assistant to Colorado State Rep Renee Sanchez. She then worked as the National Field Organizer for 21st Century Democrats, Deputy Campaign Manager for Representative Jim Moran of Virginia and served as the National Field and Political Director for Arab American Institute. Maram Abdelhamid has earned a bachelor’s degree from the University of Denver in Political Science and Economics.
 
 ![Monifa Bandele]({{ site.url }}/public/Monifa.jpg){:style="float: left;margin-left: 7px;margin-top: 7px;"}
@@ -29,7 +29,8 @@ Vice President for MomsRising.org, **Monifa Bandele** has more than 15 years of 
 ![Jessica Garson]({{ site.url }}/public/Jess.png){:style="float: left;margin-left: 7px;margin-top: 7px;"}
 **Jess Garson** has been working as a data practioner for many years, specializing in programming languages such as Python. She has worked in data and analytics for ISL, Burston-Marstellar and National Educators Association. She got her degree in Political Science and Government at the University of Hartford.
 
-![Dessa Gypalo]({{ site.url }}/public/Dessa.jpg){:style="float: left;margin-left: 7px;margin-top: 7px;"}
+
+![Dessa Gypalo]({{ site.url }}/public/Dessa.jpg){:style="float: left;margin-right: 7px;margin-top: 10px;"}
 **Dessa Gypalo** is the Director of Data Services at NGP VAN. She, and her team, support a variety of client data needs, including onboarding and data hygiene tasks. Previously, she was the National Data Manager for Enroll America. In that role, she lead the Data team in building a sustainable data and analytics infrastructure for use by thousands of staff and volunteers who were helping uninsured Americans understand the opportunities made available by health reform. Prior to that, Dessa was the Operation Vote, Digital, Political, and Voter Protection Data Manager for President Obama’s re-election campaign, where she helped streamline data processes and built data management tools for a variety of internal stakeholders. She got her start working in Chicago at a boutique public affairs firm where she led client engagement around data needs. 
 
 ![John Malloy]({{ site.url }}/public/John.png){:style="float: left;margin-left: 7px;margin-top: 7px;"}
