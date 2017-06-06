@@ -12,6 +12,7 @@ You can [read about the organizers and trainers](http://changethegame.io/trainer
 The following organizations and more have graciously partnered and provided support for this training.
 
 ![BlueLabs](http://changethegame_site/public/photos/bluelabslogo resized.png)
+![liberty action]({{ site.url }}/public/libertyaction.jpg)
 
 ### Contact us
 
