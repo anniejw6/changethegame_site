@@ -7,7 +7,7 @@ gems: [jekyll-paginate]
 permalink:        pretty
 
 # Setup
-title:            [Change the Game]({{ site.url}}/public/logo1.png)
+title:            Change the Game
 tagline:          Political and Organizing Data Training for Communities of Color
 description:      'Political and Organizing Data Training for Communities of Color'
 url:              http://changethegame.io/
