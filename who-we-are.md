@@ -11,7 +11,7 @@ You can [read about the organizers and trainers](http://changethegame.io/trainer
 ### Sponsors and partners
 The following organizations and more have graciously partnered and provided support for this training.
 
-![BlueLabs]({{ site.url }}/public/photos/bluelabslogo resized.jpg)
+![BlueLabs]({{ site.url }}/public/photos/bluelabs.jpg)
 
 ### Contact us
 
