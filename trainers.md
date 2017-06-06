@@ -3,7 +3,8 @@ layout: page
 title: Organizers and Trainers
 ---
 Committee Chair
-![Jamaa]({{site.url}}/public/jamaa.jpg)
+
+![Jamaa]({{ site.url }}/public/jamaa.png)
 **Jamaa Bickley-King** is the committee chair for the Change the Game training and has over 20 years of political experience in the progressive and Democratic party space. He has had critical roles in implementing innovative data-centric programs to engage people of color, especially Black people. He has implemented custom VAN set ups for the NAACP, The Prime Minister of Trinidad Tobago and successfully deployed the first 50 state VAN and Voter file system for a national non-proft in the US. He was the critical tech architect for the NAACP's 2012 voter registration program where they registered over 600,000 people nationally. He is also, the Chairman of the Board, President, and co-founder of New Virginia Majority, which completed a successful Black, Latino, and youth-targeted voter registration drive in Virginia, that registered 150,000 people in 2016.
 
 Committee Members (alphabetic by last name)
