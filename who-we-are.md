@@ -9,9 +9,9 @@ We are a group of data practitioners, analysts and technologists working in the 
 You can [read about the organizers and trainers](http://changethegame.io/trainers/) that you'll meet at the training. 
 
 ### Sponsors and partners
-The following groups have generously provided financial support for the training, including scholarships.
+The following organizations and more have graciously partnered and provided support for this training.
 
-GROUPS HERE
+![BlueLabs]({{ site.url }}/public/photos/bluelabslogo resized.jpg)
 
 ### Contact us
 
