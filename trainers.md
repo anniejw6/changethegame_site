@@ -2,14 +2,14 @@
 layout: page
 title: Organizers and Trainers
 ---
-##**Committee Chair**
+## **Committee Chair**
 
-![Jamaa]({{ site.url }}/public/Jamaa.jpg)
+![Jamaa Bickley-King]({{ site.url }}/public/Jamaa.jpg)
 **Jamaa Bickley-King** is the committee chair for the Change the Game training and has over 20 years of political experience in the progressive and Democratic party space. He has had critical roles in implementing innovative data-centric programs to engage people of color, especially Black people. He has implemented custom VAN set ups for the NAACP, The Prime Minister of Trinidad Tobago and successfully deployed the first 50 state VAN and Voter file system for a national non-proft in the US. He was the critical tech architect for the NAACP's 2012 voter registration program where they registered over 600,000 people nationally. He is also, the Chairman of the Board, President, and co-founder of New Virginia Majority, which completed a successful Black, Latino, and youth-targeted voter registration drive in Virginia, that registered 150,000 people in 2016.
 
-##**Committee Members** 
+## **Committee Members** 
 
-(alphabetic by last name)
+(alphabetic by last name
 
 ![Maram Abdelhamid]({{ site.url }}/public/Maram.jpg)
 **Maram Abdelhamid** is the Founder and Director of Liberty and Access for All. She is a Political and Nonprofit Consultant, specializing in strategic program development, government advocacy, campaigns and elections with clients like U.S Department of State, National Democratic Institute (NDI) Liberty Coalition, and Brian Moran for Governor and Creigh Deeds for Governor Campaigns. Ms. Abdelhamid has over 10 years of experience in political organizing government relations and advocacy. Abdelhamid began her career as a Legislative Assistant to Colorado State Rep Renee Sanchez. She then worked as the National Field Organizer for 21st Century Democrats, Deputy Campaign Manager for Representative Jim Moran of Virginia and served as the National Field and Political Director for Arab American Institute. Maram Abdelhamid has earned a bachelor’s degree from the University of Denver in Political Science and Economics.
