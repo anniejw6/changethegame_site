@@ -27,14 +27,14 @@ Vice President for MomsRising.org, **Monifa Bandele** has more than 15 years of 
 ![Katie Ellis]({{ site.url }}/public/Katie.jpg){:style="float: left;margin-right: 12px;margin-top: 7px;"}
 **Katie Ellis** is the founder and Executive Director of the Community Outreach Group, a consulting firm that manages field and organizing campaigns for Planned Parenthood and partner organizations working to create a world free from violence and discrimination. In a previous life, Katie ran data programs and trained on data, organizing, and digital strategy for the New Organizing Institute.
 
-![Jessica Garson]({{ site.url }}/public/Jess.png){:style="float: right;margin-left: 12px;margin-top: 7px;"}
-**Jess Garson** has been working as a data practioner for many years, specializing in programming languages such as Python. She has worked in data and analytics for ISL, Burston-Marstellar and National Educators Association. She got her degree in Political Science and Government at the University of Hartford.
+![Jessica Garson]({{ site.url }}/public/Jess2.jpg){:style="float: right;margin-left: 12px;margin-top: 7px;"}
+**Jess Garson** has been working as a data practitioner for many years, specializing in programming languages such as Python. She's currently a software engineer at ISL. She's the organizer of the Techlady Hackathon, and Hack && Tell DC. Previously she's worked at Burston-Marstellar, National Educators Association, ISSI Data, and Salsa Labs. Before working in technology, Jess worked on numerous campaigns throughout the country and got her degree in Political Science at the University of Hartford.
 
 
 ![Dessa Gypalo]({{ site.url }}/public/Dessa.jpg){:style="float: left;margin-right: 12px;margin-top: 10px;"}
 **Dessa Gypalo** is the Director of Data Services at NGP VAN. She, and her team, support a variety of client data needs, including onboarding and data hygiene tasks. Previously, she was the National Data Manager for Enroll America. In that role, she lead the Data team in building a sustainable data and analytics infrastructure for use by thousands of staff and volunteers who were helping uninsured Americans understand the opportunities made available by health reform. Prior to that, Dessa was the Operation Vote, Digital, Political, and Voter Protection Data Manager for President Obama’s re-election campaign, where she helped streamline data processes and built data management tools for a variety of internal stakeholders. She got her start working in Chicago at a boutique public affairs firm where she led client engagement around data needs. 
 
-![John Malloy]({{ site.url }}/public/John.png){:style="float: right;margin-left: 12px;margin-top: 7px;"}
+![John Malloy]({{ site.url }}/public/John2.jpg){:style="float: right;margin-left: 12px;margin-top: 7px;"}
 **John Malloy** is the Deputy Director of Data and Analytics for Planned Parenthood Federation of America. He's previously worked in data and analytics for the Democractic Congressional Campaign Committee (DCCC), Enroll America and for America Votes in New Hampshire. He received his B.A. in Political Science from University of Kentucky.
 
 ![Cristina Sinclaire]({{ site.url }}/public/Cristina.png){:style="float: left;margin-left: 12px;margin-top: 7px;"}
