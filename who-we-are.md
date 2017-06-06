@@ -15,7 +15,7 @@ The following organizations and more have graciously partnered and provided supp
 
 ![liberty and access for all]({{ site.url }}/public/libertyaccess.jpg) Liberty and Access for All
 
-![moms rising]({{ site.url }}/public/momsrising.png)
+![moms rising]({{ site.url }}/public/momrising.png)
 
 ### Contact us
 
