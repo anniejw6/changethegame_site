@@ -13,7 +13,8 @@ The following organizations and more have graciously partnered and provided supp
 
 ![blue labs]({{ site.url }}/public/bluelabs.png){:style="float: right;margin-left: 12px;margin-top: 7px;"}
 ![liberty and access for all]({{ site.url }}/public/libertyaccess.jpg){:style="float: left;margin-left: 12px;margin-top: 7px;"}
-![moms rising]({{ site.url }}/public/momrising.png)
+![moms rising]({{ site.url }}/public/momsrising2.jpg)
+![DLCC]({{ site.url }}/public/DLCC.jpg)
 
 ### Contact us
 
