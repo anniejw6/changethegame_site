@@ -16,7 +16,7 @@ The following organizations and more have graciously partnered and provided supp
 ![moms rising]({{ site.url }}/public/momsrising2.jpeg){:style="float: left;margin-left: 20px;margin-right: 20px;margin-top: 7px;"}
 ![DLCC]({{ site.url }}/public/DLCC.jpeg){:style="float: right;margin-left: 20px;margin-right: 20px;margin-top: 7px;"}
 
-<p>
+<br>
 ### Contact us
 
 Questions or concerns? Email us at changethegametraining@gmail.com and a member of the organizing committee will respond as quickly as possible. We appreciate your patience.
