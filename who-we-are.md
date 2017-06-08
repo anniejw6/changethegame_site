@@ -11,10 +11,10 @@ You can [read about the organizers and trainers](http://changethegame.io/trainer
 ### Sponsors and partners
 The following organizations and more have graciously partnered and provided support for this training.
 
-![blue labs]({{ site.url }}/public/bluelabs.png){:style="float: right;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
-![liberty and access for all]({{ site.url }}/public/libertyaccess.jpg){:style="float: right;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
-![moms rising]({{ site.url }}/public/momsrising2.jpeg){:style="float: right;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
-![DLCC]({{ site.url }}/public/DLCC.jpeg){:style="float: right;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
+![blue labs]({{ site.url }}/public/bluelabs.png){:style="align: right;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
+![liberty and access for all]({{ site.url }}/public/libertyaccess.jpg){:style="align: left;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
+![moms rising]({{ site.url }}/public/momsrising2.jpeg){:style="align: right;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
+![DLCC]({{ site.url }}/public/DLCC.jpeg){:style="align: right;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
 
 <br>
 ### Contact us
