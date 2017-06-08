@@ -17,6 +17,7 @@ The following organizations and more have graciously partnered and provided supp
 ![DLCC]({{ site.url }}/public/DLCC.jpeg){:style="float: right;margin-left: 12px;margin-right: 12px;margin-top: 7px;"}
 
 
+
 ### Contact us
 
 Questions or concerns? Email us at changethegametraining@gmail.com and a member of the organizing committee will respond as quickly as possible. We appreciate your patience.
