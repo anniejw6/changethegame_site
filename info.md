@@ -14,7 +14,7 @@ Traditionally oppressed communities struggle to be seen and heard by their repre
 In Washington, DC at a training facility.
 
 **I'm ready to apply! What do I do?**
-Just fill out the [application page](http://changethegame.io/apply/). A member of the application committee will follow up with next steps shortly.
+Just fill out the [application page](http://changethegame.io/apply/). A member of the application committee will follow up with next steps shortly. **Update: Due to popular demand the deadline to apply has been extended to Friday July 7th, 2017!**
 
 **What’s different about this training?**
 + Given the way legislation impacts the day to day lives of these communities, we are looking to lift and empower traditionally underrepresented organizations and staff. This space is intended to empower folks to move into a leadership positions in order to affect change in their communities.
