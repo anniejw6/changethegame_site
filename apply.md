@@ -2,6 +2,8 @@
 layout: page
 title: Apply Here
 ---
+**Update: Due to popular demand the deadline to apply has been extended to Friday July 7th, 2017!**
+
 **Interested? Apply here!** 
 Thank you for your interest in the Change the Game Training -  Political and Organizing Data Training for Communities of Color. After you submit this application, a training organizer will follow up with next steps. For immediate questions, please refer to our [FAQ](http://changethegame.io/info/) or send us an email: changethegametraining@gmail.com . 
 
