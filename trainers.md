@@ -38,10 +38,13 @@ Vice President for MomsRising.org, **Monifa Bandele** has more than 15 years of 
 ![Dessa Gypalo]({{ site.url }}/public/Dessa.jpg){:style="float: left;margin-right: 12px;margin-top: 10px;"}
 **Dessa Gypalo** is the Director of Data Services at NGP VAN. She, and her team, support a variety of client data needs, including onboarding and data hygiene tasks. Previously, she was the National Data Manager for Enroll America. In that role, she lead the Data team in building a sustainable data and analytics infrastructure for use by thousands of staff and volunteers who were helping uninsured Americans understand the opportunities made available by health reform. Prior to that, Dessa was the Operation Vote, Digital, Political, and Voter Protection Data Manager for President Obama’s re-election campaign, where she helped streamline data processes and built data management tools for a variety of internal stakeholders. She got her start working in Chicago at a boutique public affairs firm where she led client engagement around data needs. 
 
-![John Malloy]({{ site.url }}/public/john2.jpg){:style="float: right;margin-left: 12px;margin-top: 7px;"}
+![Stephanie Hendrick]({{ site.url }}/public/stephanie.jpg){:style="float: right;margin-left: 12px;margin-top: 7px;"}
+**Stephanie Hendrick** is a progressive data professional who is motivated by using data to create stronger communities through organizing. She started out as a field organizer in Florida for Organizing for America and later Enroll America, has worked on local and statewide races as a data analyst in Florida and Virginia, and had the honor of being a States Analyst at Hillary for America for 23 presidential caucuses and primaries. She loves trainings, her tripawd dog Rooney, and karaoke.
+
+![John Malloy]({{ site.url }}/public/john2.jpg){:style="float: left;margin-left: 12px;margin-right: 12px; margin-top: 7px;"} 
 **John Malloy** is the Deputy Director of Data and Analytics for Planned Parenthood Federation of America. He's previously worked in data and analytics for the Democractic Congressional Campaign Committee (DCCC), Enroll America and for America Votes in New Hampshire. He received his B.A. in Political Science from University of Kentucky.
 
-![Matthew Saniie]({{ site.url }}/public/Saniie2.jpg){:style="float: left;margin-left: 12px;margin-right: 12px; margin-top: 7px;"} 
+![Matthew Saniie]({{ site.url }}/public/Saniie2.jpg){:style="float: right;margin-left: 12px;margin-top: 7px;"}
 **Matthew Saniie** is a consultant, organizer, data analyst, and strategist who has been working in politics and social good for over 10 years. Matthew currently works with non-profits, candidates, and national organizations who are looking to use data to improve outcomes and maximize impact. Matthew has used data in roles ranging from Battleground States Election Analyst for President Obama's 2012 reelection campaign to National Analytics Director at Enroll America enrolling millions of Americans in ACA (Obamacare) coverage.
 
 ![Cristina Sinclaire]({{ site.url }}/public/Cristina.png){:style="float: left;margin-left: 12px;margin-top: 7px;"}
