@@ -20,6 +20,7 @@ Vice President for MomsRising.org, **Monifa Bandele** has more than 15 years of 
 ![Jennifer Cervella]({{ site.url }}/public/Jenn.jpg){:style="float: left;margin-right: 12px;margin-top: 7px;"}
 **Jennifer Cervella** is the Data and Targeting Director at AFSCME International. Previously, she worked in data for the Texas Democratic Party. Jenn is a vital part of the data practitioner community, developing and maintaining a variety of data communications groups.
 
+
 ![Dheeraj Chand]({{ site.url }}/public/Dheeraj.jpg){:style="float: left;margin-right: 12px;margin-top: 7px;"} 
 **Dheeraj Chand** was born in Queens, New York, and grew up traveling all over Asia because of his father’s job. It was traveling all over the world like this that made him start to question the relationships between boundaries, physical geography, culture and ethnic identity, all of which became relevant when he began working in Democratic analytics and spatial analysis. He has worked for polling firms, labour unions, CRM software manufacturers and is currently working for a technology firm trying to revolutionise humanitarian aid, Mautinoa, where he serves as Head of Data and Analytics. Dheeraj is constantly learning more about geography, geospatial statistics and software engineering, and when he’s not doing that, he is avidly studying Ving Tsun Kung Fu at Moy Yat Kung Fu Academy, playing his guitar and spending time with his wife.
 
@@ -40,7 +41,7 @@ Vice President for MomsRising.org, **Monifa Bandele** has more than 15 years of 
 ![John Malloy]({{ site.url }}/public/john2.jpg){:style="float: right;margin-left: 12px;margin-top: 7px;"}
 **John Malloy** is the Deputy Director of Data and Analytics for Planned Parenthood Federation of America. He's previously worked in data and analytics for the Democractic Congressional Campaign Committee (DCCC), Enroll America and for America Votes in New Hampshire. He received his B.A. in Political Science from University of Kentucky.
 
-![Matthew Saniie]({{ site.url }}/public/Saniie2.jpg){:style="float: left;margin-left: 12px;margin-top: 7px;"} 
+![Matthew Saniie]({{ site.url }}/public/Saniie2.jpg){:style="float: left;margin-left: 12px;margin-right: 12px; margin-top: 7px;"} 
 **Matthew Saniie** is a consultant, organizer, data analyst, and strategist who has been working in politics and social good for over 10 years. Matthew currently works with non-profits, candidates, and national organizations who are looking to use data to improve outcomes and maximize impact. Matthew has used data in roles ranging from Battleground States Election Analyst for President Obama's 2012 reelection campaign to National Analytics Director at Enroll America enrolling millions of Americans in ACA (Obamacare) coverage.
 
 ![Cristina Sinclaire]({{ site.url }}/public/Cristina.png){:style="float: left;margin-left: 12px;margin-top: 7px;"}
