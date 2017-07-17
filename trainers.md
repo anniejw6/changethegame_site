@@ -21,7 +21,7 @@ Vice President for MomsRising.org, **Monifa Bandele** has more than 15 years of 
 **Jennifer Cervella** is the Data and Targeting Director at AFSCME International. Previously, she worked in data for the Texas Democratic Party. Jenn is a vital part of the data practitioner community, developing and maintaining a variety of data communications groups.
 
 
-![Dheeraj Chand]({{ site.url }}/public/Dheeraj.jpg){:style="float: left;margin-right: 12px;margin-top: 7px;"} 
+![Dheeraj Chand]({{ site.url }}/public/Dheeraj.jpg){:style="float: right;margin-left: 12px;margin-top: 7px;"}
 **Dheeraj Chand** was born in Queens, New York, and grew up traveling all over Asia because of his father’s job. It was traveling all over the world like this that made him start to question the relationships between boundaries, physical geography, culture and ethnic identity, all of which became relevant when he began working in Democratic analytics and spatial analysis. He has worked for polling firms, labour unions, CRM software manufacturers and is currently working for a technology firm trying to revolutionise humanitarian aid, Mautinoa, where he serves as Head of Data and Analytics. Dheeraj is constantly learning more about geography, geospatial statistics and software engineering, and when he’s not doing that, he is avidly studying Ving Tsun Kung Fu at Moy Yat Kung Fu Academy, playing his guitar and spending time with his wife.
 
 ![Bridgit Donnely]({{ site.url }}/public/Bridgit.jpg){:style="float: right;margin-left: 12px;margin-top: 7px;"}
