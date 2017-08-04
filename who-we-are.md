@@ -26,7 +26,7 @@ The following organizations and more have graciously partnered and provided supp
 ![SEIU]({{ site.url }}/public/SEIU-logo.jpg){:style="align: left;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
 ![groundswell]({{ site.url }}/public/gw1.jpg){:style="align: left;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
 ![minerva insights]({{ site.url }}/public/mi1.png){:style="align: left;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
-![NGPVAN({{ site.url }}/public/ngpvan.jpg){:style="align: left;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
+![NGPVAN({{ site.url }}/public/ngpvan1.jpg){:style="align: left;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
 ![TargetSmart]({{ site.url }}/public/targetsmartlogo.png){:style="align: left;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
 ![solidarity strategies]({{ site.url }}/public/ss1.png){:style="align: left;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
 ![DLCC]({{ site.url }}/public/DLCC.jpeg){:style="align: right;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
