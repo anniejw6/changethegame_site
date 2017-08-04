@@ -9,7 +9,9 @@ We are a group of data practitioners, analysts and technologists working in the 
 You can [read about the organizers and trainers](http://changethegame.io/trainers/) that you'll meet at the training. 
 
 ### Sponsors and partners
-The following organizations and more have graciously partnered and provided support for this training.
+The following organizations and more have graciously partnered and provided support for this training. Thank you to our individual and anonymous supporters as well, we could not do this without you!
+
+**You can help us get over the final line of providing full scholarships to all attendees. Your donation today will help cover the cost to bring in participants and trainers to Washington D.C from all over the country! [Donate Here](https://action.momsrising.org/donate/change_the_game/)** If you are interested in a larger sponsorship, please email us or any member of the committee.
 
 ![blue labs]({{ site.url }}/public/bluelabs.png)<style type="text/css">
 .image-left {
