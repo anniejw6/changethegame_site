@@ -57,17 +57,17 @@ Vice President for MomsRising.org, **Monifa Bandele** has more than 15 years of 
 ** Coaches will work with trainees to ensure personalized attention and support throughout the training.**
 
 
-![Emma Akpan]({{ site.url }}/public/emma.png){:style="float: left;margin-left: 12px;margin-top: 7px;"}
+![Emma Akpan]({{ site.url }}/public/emma.png){:style="float: left;margin-left: 12px;margin-top: 7px;margin-right: 12px;"}
 **Emma Akpan** is the Data & Targeting Director for Michigan Voice and currently lives in Detroit. She has worked with other non-profits, including as a field organizer for Planned Parenthood. She has also trained at Wellstone Data Bootcamps.  
 
 ![Westley Bayas]({{ site.url }}/public/westley.jpg){:style="float: right;margin-left: 12px;margin-top: 7px;"}
 **Westley Bayas III**is the principal owner of Magnolia Strategies, a full service public affairs management, political consulting, policy development and program execution firm. He was the first Project Coordinator for The Welcome Table New Orleans, a new city initiative that focuses on race, reconciliation and community. In this role, Bayas co-manages the Welcome Table initiative, and ensures that diverse groups of New Orleanians are able to come together to build relationships and act to build a better, stronger city. He has also served in a variety of roles serving people in the New Orleans area.
 
-![Tim Lumpkins]({{ site.url }}/public/tim.jpg){:style="float: left;margin-left: 12px;margin-top: 7px;"}
+![Tim Lumpkins]({{ site.url }}/public/tim.jpg){:style="float: left;margin-left: 12px;margin-top: 7px;margin-right: 12px;"}
 **Tim Lumpkins** is the Statewide Data Analyst at Planned Parenthood Advocates in Missouri. In this role, he helps to support the data and analytics needs of the public policy teams for two multi-state affiliates. He also serves on the board of the Metro Trans Umbrella Group, a St. Louis-based non-profit that builds visibility and support for the local trans and gender non-conforming community.
 
 ![Felicity Pererya]({{ site.url }}/public/fdawg2.png){:style="float: right;margin-left: 12px;margin-top: 7px;"}
 **Felicity Pererya** has worked with data and analytics for the Presidential races for Hillary Clinton and Barack Obama, as well as working in her home state of Texas on local races and Battleground Texas as the Director of Data and Analytics. 
 
-![Trevor Wong]({{ site.url }}/public/tdawg.png){:style="float: left;margin-left: 12px;margin-top: 7px;"}
+![Trevor Wong]({{ site.url }}/public/tdawg.png){:style="float: left;margin-left: 12px;margin-top: 7px;margin-right: 12px;"}
 **Trevor Wong** specializes in the use of GIS and mapping for campaigns. He has worked on a number of local and national elections, including Obama for America and Hillary for America in data and field roles. (webmasters note: He is also expecting his first child!)
