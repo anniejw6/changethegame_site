@@ -69,5 +69,5 @@ Vice President for MomsRising.org, **Monifa Bandele** has more than 15 years of 
 ![Felicity Pererya]({{ site.url }}/public/fdawg2.png){:style="float: right;margin-left: 12px;margin-top: 7px;"}
 **Felicity Pererya** has worked with data and analytics for the Presidential races for Hillary Clinton and Barack Obama, as well as working in her home state of Texas on local races and Battleground Texas as the Director of Data and Analytics. 
 
-![Trevor Wong]({{ site.url }}/public/emma.png){:style="float: left;margin-left: 12px;margin-top: 7px;"}
+![Trevor Wong]({{ site.url }}/public/tdawg.png){:style="float: left;margin-left: 12px;margin-top: 7px;"}
 **Trevor Wong** specializes in the use of GIS and mapping for campaigns. He has worked on a number of local and national elections, including Obama for America and Hillary for America in data and field roles. (webmasters note: He is also expecting his first child!)
