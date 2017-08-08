@@ -2,7 +2,6 @@
 layout: page
 title: Trainee Bios
 ---
-## **Trainee Bios*
 Bios provided by trainees. Alphabetical by first name.
 
 **Branden Riley**	
