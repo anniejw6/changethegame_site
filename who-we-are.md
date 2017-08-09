@@ -9,10 +9,12 @@ We are a group of data practitioners, analysts and technologists working in the 
 You can [read about the organizers and trainers](http://changethegame.io/trainers/) that you'll meet at the training. 
 
 ### Sponsors and partners
-The following organizations and more have graciously partnered and provided support for this training. Thank you to our individual and anonymous supporters as well, we could not do this without you!
-
 **You can help us get over the final line of providing full scholarships to all attendees. Your donation today will help cover the cost to bring in participants and trainers to Washington D.C from all over the country! [Donate Here](https://action.momsrising.org/donate/change_the_game/)** If you are interested in a larger sponsorship, please email us or any member of the committee.
 
+**Thank you to our long list of individual donors who have already contributed to the success of this training in more ways than one.** (alphabetical by last name, updated as of August 7)
+Tim Anderegg, Amir Arman, Bernard Bergmann, Devin Brady, Chris Brill, Emily Callen, Christine Campigotto, Andrew Claster, Amanda Coulombe, Kate Dahl, Lauren Deitz, John DeLapp, Kassia DeVorsey, Kyle Doran, Russell Drapkin, Erek Dyskant, Miriah Elliott, Garrett Fardon, Julie Goldberg, Charles Goudiss, Martha Grant, Audra Grassia, Colleen Gruszynski, Dessa Gypalo, Joel Hartig, Julia Heselton, Micheal Keane, Darren Kinnaird, Matt Klaber, Joshua Latto, Angelica Livoti, Santiago Martinez, Lauren Mayeaux, Benjamin Messner, Josh Nausbaum, Nicole Nelmark, Samuel Nitz, Michael Ono, Eric Payne, Amanda Peel, Alexandra Perez-Caballero, Andy Perry, Esha Rakhit, Sonya Reynolds, Josh Rosmarin, Mike Sager, Seth Samuels, Matthew Saniie,  Paul Schaffer, Bill Schwulst, Cristina Sinclaire, Nathan Sterken, Aaron Strauss, Jesse Thomas, Maura Wallenius, Sara Waterfall, MIchael Weissman, Levi Wolberg
+
+**The following organizations and more have graciously partnered and provided support for this training.** 
 ![blue labs]({{ site.baseurl }}/public/bluelabs.png)<style type="text/css">
 .image-left {
   display: block;
@@ -33,6 +35,7 @@ The following organizations and more have graciously partnered and provided supp
 ![Catalist]({{ site.baseurl }}/public/catalist.png){:style="align: right;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
 ![Planned Parenthood for America]({{ site.baseurl }}/public/ppfa.png){:style="align: right;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
 ![NextGen America]({{ site.baseurl }}/public/nextgen.PNG){:style="align: right;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
+![Analyst Institute]({{ site.baseurl }}/public/ai_logo.png){:style="align: right;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
 
 <br>
 ### Contact us
