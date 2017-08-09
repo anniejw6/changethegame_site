@@ -4,10 +4,24 @@ title: Trainee Bios
 ---
 Bios provided by trainees. Alphabetical by first name.
 
-**Branden Riley**	
-Preferred Gender Pronoun	He/His	
-Twitter handle		@IamBrandenRiley	
-GroundShaker, Problem Solver, Deep thinker, Engineer, Inventor, Foodie, Urban Farmer 
+|---
+| Default aligned | Left aligned | Center aligned | Right aligned
+|-|:-|:-:|-:
+| First body part | Second cell | Third cell | fourth cell
+| Second line |foo | **strong** | baz
+| Third line |quux | baz | bar
+|---
+| Second body
+| 2 line
+|===
+| Footer row
+
+
+| **Branden Riley**| |
+|:-|:-|
+| Preferred Gender Pronoun | He/His |
+| Twitter handle | @IamBrandenRiley |	
+| GroundShaker, Problem Solver, Deep thinker, Engineer, Inventor, Foodie, Urban Farmer | | 
 
 **Connie Gao**	
 Preferred Gender Pronoun	She/Her	
