@@ -2,5 +2,4 @@
 layout: page
 title: Agenda
 ---
-
-<iframe src="https://docs.google.com/spreadsheets/d/12UTi2NfieTqS1f8ogYIcb1-dKfZd9WwwlWXuh0OI3cY/edit#gid=0" width="600" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe width='650' height='1000' frameborder='0' scrolling='yes' src='https://docs.google.com/spreadsheets/d/12UTi2NfieTqS1f8ogYIcb1-dKfZd9WwwlWXuh0OI3cY/edit#gid=0&range=A1:E687&widget=false&chrome=false'></iframe>
