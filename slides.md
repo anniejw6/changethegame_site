@@ -14,4 +14,4 @@ title: Training Content
 ### Day 2: Monday, August 14th
 
 [Progressive Landscape](https://www.dropbox.com/s/ziaig7tnaoomofm/Progressive%20Landscape-Westley%20Bayas.pdf?dl=0) - Westley Bayas III
-<br>[Modern Campaigning[(https://www.dropbox.com/s/tdbtiyaew7qgvhj/Modern%20Campaigning%20-%20Lena%20Tom.pdf?dl=0) - Lena Tom
+<br>[Modern Campaigning](https://www.dropbox.com/s/tdbtiyaew7qgvhj/Modern%20Campaigning%20-%20Lena%20Tom.pdf?dl=0) - Lena Tom
