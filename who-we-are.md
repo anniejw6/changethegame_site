@@ -15,6 +15,13 @@ You can [read about the organizers and trainers](http://changethegame.io/trainer
 Aaron Strauss, Alexandra Perez-Caballero, Amanda Coulombe, Amanda Peel, Amir Arman, Andrew Claster, Andy Perry, Angelica Livoti, Audra Grassia, Benjamin Messner, Bernard Bergmann, Bill Schwulst, Brandyn Keating, Catherine Tucker, Charles Goudiss, Chris Brill, Christine Campigotto, Colleen Gruszynski, Cristina Sinclaire, Darren Kinnaird, Dessa Gypalo, Devin Brady, Emily Callen, Erek Dyskant, Eric Payne, Esha Rakhit, Garrett Fardon, Jesse Thomas, Jessica Lange, Joel Hartig, John DeLapp, Josh Nausbaum, Josh Rosmarin, Joshua Latto, Julia Heselton, Julie Goldberg, Kassia DeVorsey, Kate Dahl, Kyle Doran, Lauren Deitz, Lauren Mayeaux, Levi Wolberg, Mark Taylor, Martha Grant, Matt Klaber, Matthew Saniie, Maura Wallenius, Michael Ono, MIchael Weissman, Micheal Keane, Mike Sager, Miriah Elliott, Nathan Sterken, Nicole Nelmark, Paul Schaffer, Pete Backoff, Russell Drapkin, Samuel Nitz, Santiago Martinez, Sara Waterfall, Seth Samuels, Sonya Reynolds, Stephan Fox, Steve Moran, Tim Anderagg
 
 **The following organizations and more have graciously partnered and provided support for this training.** 
+![moms rising]({{ site.baseurl }}/public/momsrising2.jpeg){:style="align: right;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
+![SEIU]({{ site.baseurl }}/public/SEIU-logo.jpg){:style="align: left;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
+![DLCC]({{ site.baseurl }}/public/DLCC.jpeg){:style="align: right;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
+![groundswell]({{ site.baseurl }}/public/gw1.jpg){:style="align: left;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
+![Planned Parenthood for America]({{ site.baseurl }}/public/ppfa.png){:style="align: right;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
+![NextGen America]({{ site.baseurl }}/public/nextgen.PNG){:style="align: right;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
+![Catalist]({{ site.baseurl }}/public/catalist.png){:style="align: right;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
 ![blue labs]({{ site.baseurl }}/public/bluelabs.png)<style type="text/css">
 .image-left {
   display: block;
@@ -23,18 +30,12 @@ Aaron Strauss, Alexandra Perez-Caballero, Amanda Coulombe, Amanda Peel, Amir Arm
   float: right;
 }
 </style>
-![liberty and access for all]({{ site.baseurl }}/public/libertyaccess.jpg){:style="align: left;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
-![moms rising]({{ site.baseurl }}/public/momsrising2.jpeg){:style="align: right;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
-![SEIU]({{ site.baseurl }}/public/SEIU-logo.jpg){:style="align: left;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
-![groundswell]({{ site.baseurl }}/public/gw1.jpg){:style="align: left;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
-![minerva insights]({{ site.baseurl }}/public/mi1.png){:style="align: left;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
-![NGPVAN]({{ site.baseurl }}/public/van1.jpg){:style="align: left;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
+
 ![TargetSmart]({{ site.baseurl }}/public/targetsmartlogo.png){:style="align: left;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
+![NGPVAN]({{ site.baseurl }}/public/van1.jpg){:style="align: left;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
+![liberty and access for all]({{ site.baseurl }}/public/libertyaccess.jpg){:style="align: left;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
+![minerva insights]({{ site.baseurl }}/public/mi1.png){:style="align: left;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
 ![solidarity strategies]({{ site.baseurl }}/public/ss1.png){:style="align: left;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
-![DLCC]({{ site.baseurl }}/public/DLCC.jpeg){:style="align: right;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
-![Catalist]({{ site.baseurl }}/public/catalist.png){:style="align: right;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
-![Planned Parenthood for America]({{ site.baseurl }}/public/ppfa.png){:style="align: right;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
-![NextGen America]({{ site.baseurl }}/public/nextgen.PNG){:style="align: right;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
 ![Analyst Institute]({{ site.baseurl }}/public/ai_logo.png){:style="align: right;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
 
 <br>
