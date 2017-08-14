@@ -22,6 +22,12 @@ Aaron Strauss, Alexandra Perez-Caballero, Amanda Coulombe, Amanda Peel, Amir Arm
 ![Planned Parenthood for America]({{ site.baseurl }}/public/ppfa.png){:style="align: right;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
 ![NextGen America]({{ site.baseurl }}/public/nextgen.PNG){:style="align: right;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
 ![Catalist]({{ site.baseurl }}/public/catalist.png){:style="align: right;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
+![NGPVAN]({{ site.baseurl }}/public/van1.jpg){:style="align: left;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
+![TargetSmart]({{ site.baseurl }}/public/targetsmartlogo.png){:style="align: left;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
+![liberty and access for all]({{ site.baseurl }}/public/libertyaccess.jpg){:style="align: left;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
+![minerva insights]({{ site.baseurl }}/public/mi1.png){:style="align: left;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
+![solidarity strategies]({{ site.baseurl }}/public/ss1.png){:style="align: left;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
+![Analyst Institute]({{ site.baseurl }}/public/ai_logo.png){:style="align: right;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
 ![blue labs]({{ site.baseurl }}/public/bluelabs.png)<style type="text/css">
 .image-left {
   display: block;
@@ -30,13 +36,6 @@ Aaron Strauss, Alexandra Perez-Caballero, Amanda Coulombe, Amanda Peel, Amir Arm
   float: right;
 }
 </style>
-
-![TargetSmart]({{ site.baseurl }}/public/targetsmartlogo.png){:style="align: left;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
-![NGPVAN]({{ site.baseurl }}/public/van1.jpg){:style="align: left;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
-![liberty and access for all]({{ site.baseurl }}/public/libertyaccess.jpg){:style="align: left;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
-![minerva insights]({{ site.baseurl }}/public/mi1.png){:style="align: left;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
-![solidarity strategies]({{ site.baseurl }}/public/ss1.png){:style="align: left;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
-![Analyst Institute]({{ site.baseurl }}/public/ai_logo.png){:style="align: right;margin-right: 15px;margin-left: 15pxmargin-top: 7px;"}
 
 <br>
 ### Contact us
