@@ -27,4 +27,6 @@ title: Training Content
 <br>[Amazon working to address racial disparity in same-day delivery service](https://www.theverge.com/2016/5/8/11634830/amazon-same-day-delivery-racial-bias-pledge)
 <br>[Technology Is Biased, Too. How Do We Fix It?](https://fivethirtyeight.com/features/technology-is-biased-too-how-do-we-fix-it/)
 
+<br>[VAN Crash Course](https://www.dropbox.com/s/x2cya7mw1t5uklo/VAN%20101-Quanita%20Toffee.pdf?dl=0) - Quanita Toffee
+
 <br>
