@@ -19,7 +19,6 @@ title: Training Content
 ### Day 3: Tuesday, August 15th
 
 [Data Sources and Bias](https://www.dropbox.com/s/1evpmvcnpld5z6p/Data%20Sources%20and%20Bias-Tajh%20Taylor.pdf?dl=0) - Tajh Taylor
-
 <br>Additional links from Tajh's presentation
 <br>[Pew Research Center: How Census Race Categories Have Changed over Time](http://www.pewsocialtrends.org/interactives/multiracial-timeline/)
 <br>[How presidential elections are impacted by a 100 million year old coastline](http://www.deepseanews.com/2012/06/how-presidential-elections-are-impacted-by-a-100-million-year-old-coastline/)
