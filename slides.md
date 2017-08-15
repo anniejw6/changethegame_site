@@ -15,3 +15,8 @@ title: Training Content
 
 [Progressive Landscape](https://www.dropbox.com/s/ziaig7tnaoomofm/Progressive%20Landscape-Westley%20Bayas.pdf?dl=0) - Westley Bayas III
 <br>[Modern Campaigning](https://www.dropbox.com/s/tdbtiyaew7qgvhj/Modern%20Campaigning%20-%20Lena%20Tom.pdf?dl=0) - Lena Tom
+
+### Day 3: Tuesday, August 15th
+
+[Data Sources and Bias](https://www.dropbox.com/s/1evpmvcnpld5z6p/Data%20Sources%20and%20Bias-Tajh%20Taylor.pdf?dl=0) - Tajh Taylor
+<br>
