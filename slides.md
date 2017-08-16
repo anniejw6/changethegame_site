@@ -19,13 +19,13 @@ title: Training Content
 ### Day 3: Tuesday, August 15th
 
 [Data Sources and Bias](https://www.dropbox.com/s/1evpmvcnpld5z6p/Data%20Sources%20and%20Bias-Tajh%20Taylor.pdf?dl=0) - Tajh Taylor
-    <br><style> .indented { padding-left: 50pt; padding-right: 50pt; } </style> Additional links from Tajh's presentation
-    <br><style> .indented { padding-left: 50pt; padding-right: 50pt; } </style> [Pew Research Center: How Census Race Categories Have Changed over Time](http://www.pewsocialtrends.org/interactives/multiracial-timeline/)
-    <br><style> .indented { padding-left: 50pt; padding-right: 50pt; } </style> [How presidential elections are impacted by a 100 million year old coastline](http://www.deepseanews.com/2012/06/how-presidential-elections-are-impacted-by-a-100-million-year-old-coastline/)
-    <br><style> .indented { padding-left: 50pt; padding-right: 50pt; } </style> [How school district boundaries are influenced by white separation](https://www.usnews.com/news/education-news/articles/2017-06-21/white-wealthy-communities-line-up-to-create-their-own-school-districts)
-    <br><style> .indented { padding-left: 50pt; padding-right: 50pt; } </style> [Amazon Doesn't Consider the Race of Its Customers. Should It?](https://www.bloomberg.com/graphics/2016-amazon-same-day/)
-    <br><style> .indented { padding-left: 50pt; padding-right: 50pt; } </style> [Amazon working to address racial disparity in same-day delivery service](https://www.theverge.com/2016/5/8/11634830/amazon-same-day-delivery-racial-bias-pledge)
-    <br><style> .indented { padding-left: 50pt; padding-right: 50pt; } </style> [Technology Is Biased, Too. How Do We Fix It?](https://fivethirtyeight.com/features/technology-is-biased-too-how-do-we-fix-it/)
+    <br>{padding-left: 50pt; padding-right: 50pt; }Additional links from Tajh's presentation
+    <br>{padding-left: 50pt; padding-right: 50pt; }[Pew Research Center: How Census Race Categories Have Changed over Time](http://www.pewsocialtrends.org/interactives/multiracial-timeline/)
+    <br>{padding-left: 50pt; padding-right: 50pt; }[How presidential elections are impacted by a 100 million year old coastline](http://www.deepseanews.com/2012/06/how-presidential-elections-are-impacted-by-a-100-million-year-old-coastline/)
+    <br>{padding-left: 50pt; padding-right: 50pt; }[How school district boundaries are influenced by white separation](https://www.usnews.com/news/education-news/articles/2017-06-21/white-wealthy-communities-line-up-to-create-their-own-school-districts)
+    <br>{padding-left: 50pt; padding-right: 50pt; }[Amazon Doesn't Consider the Race of Its Customers. Should It?](https://www.bloomberg.com/graphics/2016-amazon-same-day/)
+    <br>{padding-left: 50pt; padding-right: 50pt; }[Amazon working to address racial disparity in same-day delivery service](https://www.theverge.com/2016/5/8/11634830/amazon-same-day-delivery-racial-bias-pledge)
+    <br>{padding-left: 50pt; padding-right: 50pt; }[Technology Is Biased, Too. How Do We Fix It?](https://fivethirtyeight.com/features/technology-is-biased-too-how-do-we-fix-it/)
 
 <br>[Excel Data Cleaning](https://www.dropbox.com/s/vl9ml42x0gn2vxq/Excel%20Data%20Cleaning-Jamal%20Taylor.pdf?dl=0) - Jamal Taylor
 <br>[VAN Crash Course](https://www.dropbox.com/s/x2cya7mw1t5uklo/VAN%20101-Quanita%20Toffee.pdf?dl=0) - Quanita Toffee
