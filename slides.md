@@ -32,3 +32,5 @@ title: Training Content
 <br>[Excel Appends and Analysis](https://www.dropbox.com/s/2tsbctsnzkqxxgn/Excel%20Appends%20and%20Analysis-Jamal%20Taylor.pdf?dl=0) - Jamal Taylor
 
 ### Day 4: Wednesday, August 16th
+
+<br>[Excel VLOOKUP](https://www.dropbox.com/s/w0n0ds51zxzddsn/Excel%20VLOOKUP-Jamal%20Taylor.pdf?dl=0) - Jamal Taylor
