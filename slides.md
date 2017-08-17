@@ -38,6 +38,6 @@ title: Training Content
 
 ### Day 5: Thursday, August 17th
 
-<br>[Building a Winning Coalition](https://www.dropbox.com/s/bx5xuay9w0q2akn/Building%20a%20Winning%20Coalition-Marlon%20Marshall%20Marc%20Priester.pdf?dl=0)
+<br>[Building a Winning Coalition](https://www.dropbox.com/s/bx5xuay9w0q2akn/Building%20a%20Winning%20Coalition-Marlon%20Marshall%20Marc%20Priester.pdf?dl=0) - Marlon Marshall and Marc Priester
 <br>[Targeting 101](https://www.dropbox.com/s/p9v1q8aj4b5npnt/Targeting%20101-Alex%20Barbieri%20and%20Fresco%20Steez.pdf?dl=0) - Alex Barbieri and Fresco Steez
 <br>
