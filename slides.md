@@ -38,4 +38,4 @@ title: Training Content
 
 ### Day 5: Thursday, August 17th
 
-<br>
+<br>[Targeting 101](https://www.dropbox.com/s/p9v1q8aj4b5npnt/Targeting%20101-Alex%20Barbieri%20and%20Fresco%20Steez.pdf?dl=0) - Alex Barbieri and Fresco Steez
