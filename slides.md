@@ -33,4 +33,9 @@ title: Training Content
 
 ### Day 4: Wednesday, August 16th
 
+<br>[VAN Turf Cutting](https://www.dropbox.com/s/fl7l6z1g56nu74u/VAN%20Turf%20Cutting-Trevor%20Wong.pdf?dl=0) - Trevor Wong
 <br>[Excel VLOOKUP](https://www.dropbox.com/s/w0n0ds51zxzddsn/Excel%20VLOOKUP-Jamal%20Taylor.pdf?dl=0) - Jamal Taylor
+
+### Day 5: Thursday, August 17th
+
+<br>
