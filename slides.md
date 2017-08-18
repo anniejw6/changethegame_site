@@ -48,5 +48,5 @@ title: Training Content
 <br>[Exploring the VAN VR Tab](https://www.dropbox.com/s/64i7m2eklcgbubp/Exploring%20the%20VAN%20VR%20Tab-Jamaa%20Bickley-King.pptx.pdf?dl=0) - Jamaa Bickley-King
 <br>[Cultural Considerations in Voter Registration](https://www.dropbox.com/s/s7wx8yacdgeimor/Voter%20Reg%20Cultural%20Considerations-Maram.pdf?dl=0) - Maram Abdelhamid
 <br>[Best Practices for Goal Setting](https://www.dropbox.com/s/wtg3ila37ukptgw/Best%20Practices%20for%20Goal%20Setting-Matthew%20Saniie.pdf?dl=0) - Matthew Saniie
-<br>[Targeted Voter Registration worksheet](https://www.dropbox.com/s/bib37fhqcaiqz68/C3%20Targeted%20VR%20worksheet-Matthew%20Saniie.xlsx?dl=0) - Matthew Saniie
+<br>[Targeted Voter Registration goals worksheet](https://www.dropbox.com/s/bib37fhqcaiqz68/C3%20Targeted%20VR%20worksheet-Matthew%20Saniie.xlsx?dl=0) - Matthew Saniie
 <br>
