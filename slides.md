@@ -58,6 +58,5 @@ title: Training Content
 <br>
 
 ### Day 8: Sunday, August 20th
-<br>[Pre-reading article - "Everything We Care For." The Future of Progressive Philanthropy Under Trump]
-(https://www.insidephilanthropy.com/home/2016/11/28/the-future-of-progressive-philanthropy-under-a-trump-presidency)
+<br>[Pre-reading - "Everything We Care For." The Future of Progressive Philanthropy Under Trump](https://www.insidephilanthropy.com/home/2016/11/28/the-future-of-progressive-philanthropy-under-a-trump-presidency)
 <br>
