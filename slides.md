@@ -49,4 +49,5 @@ title: Training Content
 <br>[Cultural Considerations in Voter Registration](https://www.dropbox.com/s/s7wx8yacdgeimor/Voter%20Reg%20Cultural%20Considerations-Maram.pdf?dl=0) - Maram Abdelhamid
 <br>[Best Practices for Goal Setting](https://www.dropbox.com/s/wtg3ila37ukptgw/Best%20Practices%20for%20Goal%20Setting-Matthew%20Saniie.pdf?dl=0) - Matthew Saniie
 <br>[Targeted Voter Registration goals worksheet](https://www.dropbox.com/s/bib37fhqcaiqz68/C3%20Targeted%20VR%20worksheet-Matthew%20Saniie.xlsx?dl=0) - Matthew Saniie
+<br>[GIS Training data to download](https://www.dropbox.com/s/f6ych72aopg4i69/GIS_training_data-Trevor%20Wong.zip?dl=0) - Trevor Wong
 <br>
