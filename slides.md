@@ -52,3 +52,12 @@ title: Training Content
 <br>[GIS Training data to download](https://www.dropbox.com/s/f6ych72aopg4i69/GIS_training_data-Trevor%20Wong.zip?dl=0)
 <br>[GIS and Maps](https://www.dropbox.com/s/s5k51hz8zso1wxc/Maps%20%26%20GIS-Trevor%20Wong%20%26%20Jenn%20Cervella.pdf?dl=0) - Trevor Wong and Jenn Cervella
 <br>
+
+### Day 7: Saturday, August 19th
+
+<br>
+
+### Day 8: Sunday, August 20th
+<br>[Pre-reading article - "Everything We Care For." The Future of Progressive Philanthropy Under Trump]
+(https://www.insidephilanthropy.com/home/2016/11/28/the-future-of-progressive-philanthropy-under-a-trump-presidency)
+<br>
