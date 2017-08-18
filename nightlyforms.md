@@ -5,7 +5,7 @@ title: Nightly feedback forms
 Please share your thoughts on today's training! Your input and feedback will help us with the remainder of the training and enable us to improve future trainings. Previous days' feedback form links below.
 
 
-Day 5: Thursday, August 17th Feedback Form
+Day 6: Friday, August 18th Feedback Form
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScWRFD6n2a5UKXDjD7B_55OtR6fq1n-Ufj4-fwVJkv3HmoK7g/viewform?embedded=true" width="600" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 
