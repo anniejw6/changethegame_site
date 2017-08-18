@@ -41,3 +41,11 @@ title: Training Content
 <br>[Building a Winning Coalition](https://www.dropbox.com/s/bx5xuay9w0q2akn/Building%20a%20Winning%20Coalition-Marlon%20Marshall%20Marc%20Priester.pdf?dl=0) - Marlon Marshall and Marc Priester
 <br>[Targeting 101](https://www.dropbox.com/s/p9v1q8aj4b5npnt/Targeting%20101-Alex%20Barbieri%20and%20Fresco%20Steez.pdf?dl=0) - Alex Barbieri and Fresco Steez
 <br>[Experiments & Testing](https://www.dropbox.com/s/sg1wcmfxo7issc3/Change%20the%20Game%20-%20Experiments%20Presentation.pdf?dl=0) - Leo Liu
+
+### Day 6: Friday, August 18th
+
+<br>[The Life Cycle of Voter Registration](https://www.dropbox.com/s/o0yq8p9foq56r29/The%20Voter%20Registration%20Life%20Cycle-Lena%20Tom%20and%20Jamaa%20Bickley-King.pdf?dl=0) - Lena Tom and Jamaa Bickley-King
+<br>[Exploring the VAN VR Tab](https://www.dropbox.com/s/64i7m2eklcgbubp/Exploring%20the%20VAN%20VR%20Tab-Jamaa%20Bickley-King.pptx.pdf?dl=0) - Jamaa Bickley-King
+<br>[Cultural Considerations in Voter Registration](https://www.dropbox.com/s/s7wx8yacdgeimor/Voter%20Reg%20Cultural%20Considerations-Maram.pdf?dl=0) - Maram Abdelhamid
+<br>[Best Practices for Goal Setting](https://www.dropbox.com/s/wtg3ila37ukptgw/Best%20Practices%20for%20Goal%20Setting-Matthew%20Saniie.pdf?dl=0) - Matthew Saniie
+<br>
