@@ -11,7 +11,7 @@ jekyll serve
 To add a link use this
 
 ```
-[Link name as it will appear as text hyperlink](full link including https)**
+[Link name as it will appear as text hyperlink](full link including https)
 ```
 
 To add an embedded google FORM: 
@@ -23,4 +23,3 @@ To add an embedded google FORM:
 To add an embedded google spreadsheet, see the agenda page for examples.
 
 * Resize image before you load them
-* For Google Forms, see https://github.com/anniejw6/crackthecodesite/blob/master/register.md
