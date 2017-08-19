@@ -55,7 +55,7 @@ title: Training Content
 
 ### Day 7: Saturday, August 19th
 
-<br>
+<br>[Owning the Work to Change the World](https://www.dropbox.com/s/eowakn6ici2qv9a/Owning%20the%20Work%20to%20Change%20the%20World-Kelley%20Robinson.pptx.pdf?dl=0) - Kelley Robinson
 
 ### Day 8: Sunday, August 20th
 [Pre-reading - "Everything We Care For." The Future of Progressive Philanthropy Under Trump](https://www.insidephilanthropy.com/home/2016/11/28/the-future-of-progressive-philanthropy-under-a-trump-presidency)
