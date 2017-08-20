@@ -61,4 +61,5 @@ title: Training Content
 [Pre-reading - "Everything We Care For." The Future of Progressive Philanthropy Under Trump](https://www.insidephilanthropy.com/home/2016/11/28/the-future-of-progressive-philanthropy-under-a-trump-presidency)
 <br>[Fundraising](https://www.dropbox.com/s/5gkc8i23vom12rg/Fundraising-Kathy%20Smith.pdf?dl=0) - Kathy Smith
 <br>[Tips on Writing Proposals](https://www.dropbox.com/s/axoikb2uo326qpa/Tips%20for%20writing%20proposals-Kathy%20Smith.pdf?dl=0) - Kathy Smith
+<br>[Data Visualization Fundamentals](https://www.dropbox.com/s/uwvpufnw60drah2/Data%20Visualization%20Fundamentals-Matthew%20Saniie.pdf?dl=0) - Matthew Saniie
 <br>
