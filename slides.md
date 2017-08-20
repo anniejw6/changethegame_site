@@ -59,4 +59,6 @@ title: Training Content
 
 ### Day 8: Sunday, August 20th
 [Pre-reading - "Everything We Care For." The Future of Progressive Philanthropy Under Trump](https://www.insidephilanthropy.com/home/2016/11/28/the-future-of-progressive-philanthropy-under-a-trump-presidency)
+<br>[Fundraising](https://www.dropbox.com/s/5gkc8i23vom12rg/Fundraising-Kathy%20Smith.pdf?dl=0) - Kathy Smith
+<br>[Tips on Writing Proposals](https://www.dropbox.com/s/axoikb2uo326qpa/Tips%20for%20writing%20proposals-Kathy%20Smith.pdf?dl=0) - Kathy Smith
 <br>
