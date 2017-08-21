@@ -13,14 +13,14 @@ Day 9: Monday, August 21st Feedback Form
 
 [Day 2: Monday, August 14th feedback form](https://docs.google.com/forms/d/e/1FAIpQLSfsRN4B5JmoP2EHsY4qkMgx1RUMU7MWH-p_mJNnVTy0uE8RRw/viewform)
 
-[Day 3: Tuesday, August 15th Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLScuc_j-KF5uiLdWWYZuAE2mn0-eykS7Iyy1mhHoKwvRwH9vxQ/viewform?)
+[Day 3: Tuesday, August 15th feedback form](https://docs.google.com/forms/d/e/1FAIpQLScuc_j-KF5uiLdWWYZuAE2mn0-eykS7Iyy1mhHoKwvRwH9vxQ/viewform?)
 
-[Day 4: Wednesday, August 16th Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSf2Xuvo9oSaYJESomwDRb0y96O02RPPS7R_RuBM7hQ5NqsL5g/viewform?)
+[Day 4: Wednesday, August 16th feedback form](https://docs.google.com/forms/d/e/1FAIpQLSf2Xuvo9oSaYJESomwDRb0y96O02RPPS7R_RuBM7hQ5NqsL5g/viewform?)
 
-[Day 5: Thursday, August 17th Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLScf201WhNrFkx7044esKzrhGpbvbL3mcXY0prPO_LF7clg7sA/viewform?)
+[Day 5: Thursday, August 17th feedback form](https://docs.google.com/forms/d/e/1FAIpQLScf201WhNrFkx7044esKzrhGpbvbL3mcXY0prPO_LF7clg7sA/viewform?)
 
-[Day 6: Friday, August 18th Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLScWRFD6n2a5UKXDjD7B_55OtR6fq1n-Ufj4-fwVJkv3HmoK7g/viewform?)
+[Day 6: Friday, August 18th feedback form](https://docs.google.com/forms/d/e/1FAIpQLScWRFD6n2a5UKXDjD7B_55OtR6fq1n-Ufj4-fwVJkv3HmoK7g/viewform?)
 
-[Day 7: Saturday, August 19th Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSc3QEre5XVA9TDLiuPud4mQ1XpPg0pNLMg6R5DT17_Otb60-g/viewform?)
+[Day 7: Saturday, August 19th feedback form](https://docs.google.com/forms/d/e/1FAIpQLSc3QEre5XVA9TDLiuPud4mQ1XpPg0pNLMg6R5DT17_Otb60-g/viewform?)
 
-[Day 8: Sunday, August 20th Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSfi64eUWQCtcU-tVak1ObNjeGyNWjFwU6aeGNQgcu_DUKlgug/viewform?)
+[Day 8: Sunday, August 20th feedback form](https://docs.google.com/forms/d/e/1FAIpQLSfi64eUWQCtcU-tVak1ObNjeGyNWjFwU6aeGNQgcu_DUKlgug/viewform?)
