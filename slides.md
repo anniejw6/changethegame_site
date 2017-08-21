@@ -64,4 +64,7 @@ title: Training Content
 <br>[Data Visualization Fundamentals](https://www.dropbox.com/s/uwvpufnw60drah2/Data%20Visualization%20Fundamentals-Matthew%20Saniie.pdf?dl=0) - Matthew Saniie
 <br>[Funder Proposal Prompts](https://www.dropbox.com/s/7tqsamc33enw5it/Funder%20Proposal%20Prompts-Kathy%20Smith.doc?dl=0)
 <br>[Common Grant Proposal resource](http://www.agmconnect.org/resources-tools/resource-center-agm/agm-common-proposal-form)
-<br>
+
+
+### Day 9: Monday, August 21st
+<br>[Get Your Data Tight](https://www.dropbox.com/s/cogudise4m0mwn0/Structuring%20Data%20in%20VAN-John%20Lee.pdf?dl=0) - John Lee
