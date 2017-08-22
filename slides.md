@@ -68,3 +68,7 @@ title: Training Content
 
 ### Day 9: Monday, August 21st
 <br>[Get Your Data Tight](https://www.dropbox.com/s/cogudise4m0mwn0/Structuring%20Data%20in%20VAN-John%20Lee.pdf?dl=0) - John Lee
+
+### Day 10: Tuesday, August 22nd
+<br>[Reporting and Automation](https://www.dropbox.com/s/kem2xyh862pi8xr/Reporting%20%26%20Automation%20-%20Santiago%20Martinez%20Nick%20Ahamad%20Daniel%20Campos.pdf?dl=0) - Santiago Martinez, Nick Ahamed, and Daniel Campos
+<br>
