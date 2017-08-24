@@ -77,3 +77,7 @@ title: Training Content
 <br>[SQL Install](https://www.dropbox.com/s/mh3334ecnr83tke/SQL%20Install-Russ%20Rampersad.pdf?dl=0) - Russ Rampersad
 <br>[Intro to SQL](https://www.dropbox.com/s/wl25o50lna3xsak/Intro%20to%20SQL-Hillary%20Anderson%20Dawn%20Cohea.pdf?dl=0) - Hillary Anderson and Dawn Cohea
 
+### Day 12: Thursday, August 24th
+<br>[SQL Joins and Nested Queries](https://www.dropbox.com/s/3dtp1c5znbt5gvl/SQL%20Joins-Hillary%20Anderson%20Dawn%20Cohea.pdf?dl=0) - Hillary Anderson and Dawn Cohea
+<br> 
+
