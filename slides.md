@@ -78,6 +78,6 @@ title: Training Content
 <br>[Intro to SQL](https://www.dropbox.com/s/wl25o50lna3xsak/Intro%20to%20SQL-Hillary%20Anderson%20Dawn%20Cohea.pdf?dl=0) - Hillary Anderson and Dawn Cohea
 
 ### Day 12: Thursday, August 24th
-<br>[SQL Joins and Nested Queries](https://www.dropbox.com/s/3dtp1c5znbt5gvl/SQL%20Joins-Hillary%20Anderson%20Dawn%20Cohea.pdf?dl=0) - Hillary Anderson and Dawn Cohea
+<br>[SQL Joins and Nested Queries](https://www.dropbox.com/s/ui5m54ohkzgmmiy/SQL%20Joins-Hillary%20Anderson%20Dawn%20Cohea.pdf?dl=0) - Hillary Anderson and Dawn Cohea
 <br>
 
