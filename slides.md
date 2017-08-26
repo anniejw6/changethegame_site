@@ -79,5 +79,5 @@ title: Training Content
 
 ### Day 12: Thursday, August 24th
 <br>[SQL Joins and Nested Queries](https://www.dropbox.com/s/ui5m54ohkzgmmiy/SQL%20Joins-Hillary%20Anderson%20Dawn%20Cohea.pdf?dl=0) - Hillary Anderson and Dawn Cohea
-<br>
+<br>[Digital Data and Advocacy](https://www.dropbox.com/s/qyjayktd5s8p8ii/Digital%20Data%20in%20the%20Advocacy%20Space-Harold%20Moore.pdf?dl=0) - Harold Moore
 
