@@ -3,6 +3,8 @@ layout: page
 title: Training Content 
 ---
 
+### [All Training Content Compiled](https://www.dropbox.com/s/o7re1fntzmjphvi/Compiled%20Change%20the%20Game%20materials.zip?dl=0)
+
 ### Day 1: Sunday, August 13th
 
 [Welcome and Intro](https://www.dropbox.com/s/lkfo0g1xcl79m47/Change%20the%20Game%20Welcome%20and%20Intro-Jamaa%20Bickley-King.pptx.pdf?dl=0) - Jamaa Bickley-King
