@@ -40,7 +40,7 @@ title: Training Content
 
 [Building a Winning Coalition](https://www.dropbox.com/s/bx5xuay9w0q2akn/Building%20a%20Winning%20Coalition-Marlon%20Marshall%20Marc%20Priester.pdf?dl=0) - Marlon Marshall and Marc Priester
 <br>[Targeting 101](https://www.dropbox.com/s/p9v1q8aj4b5npnt/Targeting%20101-Alex%20Barbieri%20and%20Fresco%20Steez.pdf?dl=0) - Alex Barbieri and Fresco Steez
-<br>[Experiments & Testing](https://www.dropbox.com/s/sg1wcmfxo7issc3/Change%20the%20Game%20-%20Experiments%20Presentation.pdf?dl=0) - Leo Liu
+<br>[Experiments & Testing](https://www.dropbox.com/s/6b7l91re3z3ha1o/Experiments%20and%20Testing-Leo%20Liu.pdf?dl=0) - Leo Liu
 
 ### Day 6: Friday, August 18th
 
