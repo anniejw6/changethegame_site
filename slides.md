@@ -84,6 +84,5 @@ title: Training Content
 <br>[Digital Data and Advocacy](https://www.dropbox.com/s/qyjayktd5s8p8ii/Digital%20Data%20in%20the%20Advocacy%20Space-Harold%20Moore.pdf?dl=0) - Harold Moore
 
 ### Day 14: Saturday, August 26th
-<br>[Redistricting and People of Color](https://www.dropbox.com/s/d5o5jjk70nzigdt/Redistricting%20and%20People%20of%20Color-Ruth%20Greenwood%20and%20Mark%20Gaber.pdf?dl=0) . 
-Ruth Greenwood and Mark Gaber
+<br>[Redistricting and People of Color](https://www.dropbox.com/s/d5o5jjk70nzigdt/Redistricting%20and%20People%20of%20Color-Ruth%20Greenwood%20and%20Mark%20Gaber.pdf?dl=0) - Ruth Greenwood and Mark Gaber
 <br>[Redistricting and Maptitude](https://www.dropbox.com/s/kiz6tw7p3s4vu6d/Redistricting%20and%20Maptitude-Ruth%20Greenwood%20Mark%20Gaber%20and%20Matt%20Cassidy.pdf?dl=0) - Ruth Greenwood, Mark Gaber and Matt Cassidy
