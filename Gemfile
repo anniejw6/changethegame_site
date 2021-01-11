@@ -4,4 +4,4 @@ gem 'jekyll', '~> 3.4.0'
 
 gem 'jekyll-paginate'
 
-gem 'redcarpet', '~> 3.0.0'
+gem 'redcarpet', '~> 3.5.1'
